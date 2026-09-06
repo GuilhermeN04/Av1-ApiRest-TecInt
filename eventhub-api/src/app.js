@@ -18,10 +18,4 @@ app.get('/', (req, res) => {
 app.use('/eventos', eventoRoutes);
 app.use('/participantes', participanteRoutes);
 
-const PORT = process.env.PORT || 3000;
-
-app.listen(PORT, () => {
-    console.log(`Servidor rodando na porta ${PORT}`);
-});
-
 module.exports = app;
