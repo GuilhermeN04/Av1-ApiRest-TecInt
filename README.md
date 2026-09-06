@@ -118,4 +118,4 @@ Os principais recursos da API são:
 
 ## 📚 Disciplina
 
-Projeto desenvolvido para a disciplina de **Tecnologia/Desenvolvimento de APIs REST**.
+Projeto desenvolvido para a disciplina de **Técnicas de integração de sistemas**.
