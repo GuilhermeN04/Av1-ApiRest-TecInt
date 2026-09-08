@@ -112,9 +112,9 @@ Os principais recursos da API são:
 
 ## 👨‍💻 Integrantes
 
-* Nome do integrante 1
-* Nome do integrante 2
-* Nome do integrante 3
+* Francisco César da costa araujo
+* Guilherme de Brito Nogueira
+* Lucas Porto Lustosa
 
 ## 📚 Disciplina
 
